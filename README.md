@@ -8,6 +8,7 @@ http://bit.ly/FinancialDataset
 The dataset contains demographic information and thefinancial services used by individuals across East Africa
 ## Data Analysis
 We carried out the following statistical data analysis:
+
               - Univariate Analysis
               - Bivariate Analysis
               - Multivariate Analysis
