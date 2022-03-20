@@ -4,6 +4,7 @@
 The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account
 ## Dataset
 http://bit.ly/FinancialDataset
+
 The dataset contains demographic information and thefinancial services used by individuals across East Africa
 ## Data Analysis
 We carried out the following statistical data analysis:
